@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ViewPager Application</string>
+    <string name="page_text_format">"Page %d"</string>
+    <string name="delete">Delete</string>
+    <string name="dialog_title">Delete page?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialog_message">Operation cannot be undone</string>
+</resources>
